@@ -11,7 +11,7 @@
 ;
 ; If you just want to play the game, you need the .bin file with the assembled machine code.
 ; In order to execute it, you will need to install the free Atari 2600 Stella emulator, available:
-; http://stella.sourceforge.net/
+; https://stella-emu.github.io/
 ; Alternatively, if you have a physical Atari 2600 and a programmable multi-cartridge, you can use the
 ; .bin to play on authentic hardware that pre-dates Minesweeper itself by over a decade!
 ;
